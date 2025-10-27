@@ -1,0 +1,2 @@
+# Networking-Fundamentals-Nmap-Scanning-and-Automation-Scripting
+The goal of this task is to help you: Gain a solid understanding of basic networking concepts, such as IP addresses, ports, and protocols. Learn to use Nmap for network scanning and interpret the results to identify potential security risks. Develop a Python script to automate the scanning process, enhancing your coding and automation skills.
